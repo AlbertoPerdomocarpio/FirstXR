@@ -1,0 +1,9 @@
+com.DefaultCompany.FirstGame.launcher-pngs-0 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.FirstGame.launcher-resValues-1 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.FirstGame.launcher-rs-2 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.FirstGame.launcher-mergeReleaseResources-3 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.FirstGame.launcher-mergeReleaseResources-4 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.FirstGame.launcher-merged_res-5 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.FirstGame.launcher-main-6 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.FirstGame.launcher-release-7 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.FirstGame.launcher-packaged_res-8 D:\24-25\Laboratorio 2\Palucci\FirstGame\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

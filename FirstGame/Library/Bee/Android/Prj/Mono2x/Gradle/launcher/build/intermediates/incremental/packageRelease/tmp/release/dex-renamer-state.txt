@@ -1,0 +1,4 @@
+#Thu Sep 12 11:40:29 CEST 2024
+base.0=D\:\\24-25\\Laboratorio 2\\Palucci\\FirstGame\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
